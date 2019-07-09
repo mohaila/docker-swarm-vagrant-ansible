@@ -1,0 +1,4 @@
+.vagrant
+pyenv
+ansible/master-join-command.sh
+ansible/worker-join-command.sh
